@@ -28,3 +28,7 @@ h2 {
     color: honeydew;
     text-decoration-style: solid
 }
+.divBox a {
+    display: block;
+    text-decoration: underline;
+}
