@@ -1,0 +1,30 @@
+/* html,
+body {
+    height: fit-content;
+    background-image: url("https://netdna.webdesignerdepot.com/uploads/2012/11/Adventure-World-20121128.jpg");
+} */
+
+html,
+body {
+    height: 100%;
+    background: url("https://lh3.googleusercontent.com/Lk6a7S6agK_blrYrIdwro-kQD6LU9h9YUMtvmQXXxObCxCcCpfDGz0mHZ8s2xtmBCVe5=h900") center;
+}
+
+body {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-pack: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    color: black;
+    text-shadow: 0 .05rem .1rem rgba(0, 0, 0, 0.5);
+    box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 1px;
+    color: honeydew;
+    text-decoration-style: solid
+}

@@ -1,0 +1,83 @@
+[{
+
+        "name": "Pramod Bodyguard",
+        "Sal": "10000",
+        "Date": "12/10/2016",
+        "designation": "Warden",
+        "id": "100",
+        "email": "Pramodkumar@gmail.com"
+    },
+    {
+        "name": "Ganesh Hedge",
+        "Sal": "15000",
+        "Date": "13/11/2016",
+        "designation": "Clerk",
+        "id": "101",
+        "email": "ganesh123@gmail.com"
+    },
+    {
+        "name": "Vimal Kumar",
+        "Sal": "13000",
+        "Date": "1/10/2016",
+        "designation": "Office",
+        "id": "102",
+        "email": "vimal145@gmail.com"
+    },
+    {
+        "name": "Manjunath",
+        "Sal": "20000",
+        "Date": "25/1/2015",
+        "designation": "Professor",
+        "id": "103",
+        "email": "manju456@gmail.com"
+    },
+    {
+        "name": "Santosh Naidu",
+        "Sal": "11000",
+        "Date": "13/7/2016",
+        "designation": "Warden",
+        "id": "104",
+        "email": "sontosh321@gmail.com"
+    },
+    {
+        "name": "Suraj Hegde",
+        "Sal": "14000",
+        "Date": "14/5/2016",
+        "designation": "Accountant",
+        "id": "105",
+        "email": "suraj@gmail.com"
+    },
+    {
+        "name": "Prakash Raj",
+        "Sal": "80000",
+        "Date": "10/10/2015",
+        "designation": "Office",
+        "id": "106",
+        "email": "prakashraj@gmail.com"
+    },
+    {
+        "name": "Vimal Kumar",
+        "Sal": "25000",
+        "Date": "25/4/2016",
+        "designation": "Professor",
+        "id": "107",
+        "email": "vimal00@gmail.com"
+    },
+    {
+        "name": "Vengs Shetty",
+        "Sal": "22000",
+        "Date": "25/5/2016",
+        "designation": "Clerk",
+        "id": "108",
+        "email": "supervengs@gmail.com"
+    },
+    {
+        "name": "Piyush",
+        "Sal": "22000",
+        "Date": "22/3/2015",
+        "designation": "Professor",
+        "id": "109",
+        "email": "piyush.chatterjee@gmail.com"
+    }
+
+]
